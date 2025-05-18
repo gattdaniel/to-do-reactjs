@@ -5,7 +5,7 @@ Une application web simple et rapide pour gérer ses tâches quotidiennes, déve
 ## 🚀 Fonctionnalités
 
 - 🔐 Authentification (inscription, connexion, déconnexion, mot de passe oublié)
-- 📋 Création, suppression et mise à jour de tâches
+- 📋 Création, suppression et afficharge de tâches
 - ✅ Marquage de tâches comme complétées
 - 📱 Design responsive (adapté mobile & desktop)
 - ☁️ Stockage en temps réel via Firebase Firestore
