@@ -1,12 +1,31 @@
-# React + Vite
+# 📝 To-Do List App - React + Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Une application web simple et rapide pour gérer ses tâches quotidiennes, développée avec **React.js**, **Tailwind CSS** et **Firebase** (Firestore + Auth). ✨
 
-Currently, two official plugins are available:
+## 🚀 Fonctionnalités
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔐 Authentification (inscription, connexion, déconnexion, mot de passe oublié)
+- 📋 Création, suppression et mise à jour de tâches
+- ✅ Marquage de tâches comme complétées
+- 📱 Design responsive (adapté mobile & desktop)
+- ☁️ Stockage en temps réel via Firebase Firestore
 
-## Expanding the ESLint configuration
+## 🧰 Technologies utilisées
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** (Vite)
+- **Tailwind CSS**
+- **Firebase (Firestore + Auth)**
+- **React Context API**
+- **React Router DOM**
+
+## 📸 Aperçu
+
+![Aperçu](![imageprojet](https://github.com/user-attachments/assets/797ea738-8707-4d62-83c9-d972b0ed4a81)
+) <!-- Tu peux changer le lien ou ajouter une capture d’écran -->
+
+## 🛠️ Installation locale
+
+1. **Clone le repo** :
+   ```bash
+   git clone https://github.com/gattdaniel/to-do-reactjs.git
+   cd to-do-reactjs
