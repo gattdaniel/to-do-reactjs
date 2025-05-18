@@ -20,8 +20,7 @@ Une application web simple et rapide pour gérer ses tâches quotidiennes, déve
 
 ## 📸 Aperçu
 
-![Aperçu](![imageprojet](https://github.com/user-attachments/assets/797ea738-8707-4d62-83c9-d972b0ed4a81)
-) <!-- Tu peux changer le lien ou ajouter une capture d’écran -->
+![Aperçu](./public/imageprojet.png)
 
 ## 🛠️ Installation locale
 
